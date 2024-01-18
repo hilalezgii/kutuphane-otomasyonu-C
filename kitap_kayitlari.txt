@@ -1,0 +1,3 @@
+18634 kara_kitap orhan_pamuk roman 150 false
+18719 serenad zulfu_livaneli roman 250 false
+19434 calikusu resat_nuri_guntekin roman 200 false
